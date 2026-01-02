@@ -1,10 +1,3 @@
-Perfect 👍
-Below is a **professionally rewritten, clean, recruiter-ready README** for **your existing ASL project**, structured exactly the way good GitHub projects are written.
-
-You can **directly replace your current README.md with this**.
-
----
-
 # 🤟 American Sign Language (ASL) Recognition System
 
 A **real-time American Sign Language (ASL) alphabet recognition system** built using **MediaPipe hand landmarks** and **Deep Learning**.
@@ -172,5 +165,3 @@ python predict.py
 AI & Data Science Student
 
 ---
-
-Just say **next** 😊
